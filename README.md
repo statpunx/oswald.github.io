@@ -1,2 +1,0 @@
-# oswald.github.io
-Oswald
